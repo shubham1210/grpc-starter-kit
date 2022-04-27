@@ -27,6 +27,5 @@ you will need to execute the command, it will pick default goal at maven
 1. Files need to be shared with clients so that they can create stubs and call this service.
 
 # Bloom RPC UI
-![](../../Desktop/Screenshot 2022-04-27 at 10.46.03 PM.png)
-
-![](../../Desktop/Screenshot 2022-04-27 at 10.44.17 PM.png)
+<img width="1760" alt="Screenshot 2022-04-27 at 10 44 17 PM" src="https://user-images.githubusercontent.com/5547005/165591688-021fe45d-3a4c-442e-854f-8c8f6907b02d.png">
+<img width="1760" alt="Screenshot 2022-04-27 at 10 46 03 PM" src="https://user-images.githubusercontent.com/5547005/165591703-37fb5894-2e57-458f-927d-a016beafa8c3.png">
